@@ -1,0 +1,25 @@
+#hero {
+    background-image: url(../images/blue_background.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: azure;
+    font-family: Katibeh;
+}
+
+#hero .d-flex {
+    height: 70vh;
+}
+
+.display-1 {
+    color: #2652A5;
+}
+
+.lead {
+    color: #2652A5;
+}
+
+.btn {
+    background-color: #2652A5;
+    color: white;
+}
